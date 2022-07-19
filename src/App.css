@@ -1,0 +1,31 @@
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  text-align: center;
+}
+
+.login_container {
+  border: 1px solid black;
+  padding: 1rem;
+}
+
+.form {
+  display: flex;
+  flex-direction: column;
+}
+
+input {
+  margin: 15px 0;
+  padding: 10px;
+}
+
+.submit {
+  padding: 10px;
+}
+
+.error {
+  color: brown;
+  font-weight: bold;
+}
