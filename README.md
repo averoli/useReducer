@@ -1,5 +1,10 @@
 # Getting Started with Create React App
 
+Two simple examples with form for custom state logic.
+
+App.js uses useState
+Reducer.js uses useReducer
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
